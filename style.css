@@ -1,0 +1,29 @@
+
+div{
+border: 3px solid black; 
+height: 80px;
+font-size: 20px;
+}
+.header{
+	background-color:#ccc;
+}
+.left-sidebar{
+	background:#ddd;
+	float: left;
+	width: 150px;
+}
+.content{
+	background: #bbb;
+	height: 200px;
+	/*width: 170px;*/
+	margin-left: 170px;
+	margin-right: 170px;
+}
+.right-sdebar{
+	background: #eee;
+	float: right;
+	width: 150px;
+}
+.footer{
+	background: #ccc;
+	}
